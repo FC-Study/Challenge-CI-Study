@@ -1,0 +1,23 @@
+{
+  "name": "challenge-ci-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FC-Study/Challenge-CI-Study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FC-Study/Challenge-CI-Study/issues"
+  },
+  "homepage": "https://github.com/FC-Study/Challenge-CI-Study#readme",
+  "dependencies": {
+    "jest": "^28.1.1"
+  }
+}
