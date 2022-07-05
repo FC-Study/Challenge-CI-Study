@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/FC-Study/Challenge-CI-Study#readme",
   "dependencies": {
     "jest": "^28.1.1"
+  },
+  "devDependencies": {
+    "sonar-scanner": "^3.1.0"
   }
 }
